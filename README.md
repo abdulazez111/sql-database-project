@@ -60,16 +60,18 @@ SELECT * FROM teacher_info;
 **Data Integrity:** Constraints, Foreign Keys
 
 
+
 ## 👨‍💻 Author
-Abdulaziz111
-
-GitHub: @abdulazez111
-
-Portfolio SQL Project
+**Abdulaziz**  
+GitHub: [@abdulazez111](https://github.com/abdulazez111)  
+SQL Portfolio Project
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
+⭐ **If you find this project useful, please give it a star!**
 
 
 
